@@ -1,0 +1,266 @@
+.upper{
+    background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .new{
+    float: right;
+    text-align: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.middle-container{
+    
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+.logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+.middle h1{
+    text-align:center;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+.second-part{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+.card1 img{
+    height:200px;
+    width:300px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+}
+.card1 h4{
+    padding-left:10px;
+    padding-right: 20px;
+    text-align:center;
+}
+.card1 p{
+    padding-left:10px;
+    padding-right: 30px;
+    text-align:center;
+
+}
+
+
+.card2 img{
+    height:200px;
+    width:300px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+.card2 h4{
+    padding:10px;
+    text-align:center;
+}
+.card2 p{
+    padding-left:10px;
+    padding-right: 30px;
+    text-align:center;
+
+}
+.card3 img{
+    height:210px;
+    width:300px;
+    padding-top: 40px;
+}
+.card3 h4{
+    padding:5px;
+    text-align:center;
+}
+.card3 p{
+    padding-left:10px;
+    padding-right: 50px;
+    text-align:center;
+
+}
+.card4 img{
+    height:200px;
+    width:300px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;;
+}
+.card4 h4{
+    
+    text-align:center;
+    padding-left: 5px;
+    padding-right: 20px
+}
+.card4 p{
+    padding-left:10px;
+    padding-right: 20px;
+    text-align:center;
+
+}
+.home{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #D9EBE4;
+}
+.home img{
+    height:350px;
+    width:350px;
+    padding-bottom: 10px;
+}
+.home ul{
+    text-align:left;
+    padding-left:300px;
+    padding-right: 250px;
+    
+}
+.home .img {
+    width:300px;
+    height:300px;
+  }
+  .home .plan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;  
+  }
+ .home .card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    max-height:400px;
+    margin: auto;
+    text-align: center;
+  }
+  
+ .home .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+ .home .last {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+ 
+
+
+.thirdpart{
+    
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.thirdpart.p{
+    text-align:center;
+    font-size:larger;
+    
+
+}
+.fourthpart {
+    text-align:center;
+
+}
+.firstline{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.endpart{
+    background-color:#f2f2f2;
+}
+.endpart img.blacklogo{
+    
+    width:90px;
+    height:90px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+}
+
+   
+.endpart img.phone{
+    height:300px;
+    width:350px;
+    padding-left: 40px;
+}
+.endpart img.delivery{
+    
+    float: right;
+    height:400px;
+    width:600px;
+    padding-right: 30px;
+}
+.endpart img.gplay{
+    height:200px;
+    width:200px;
+    padding-left: 20px;
+}
+.endpart img.appstore{
+    height:200px;
+    width:200px;
+    padding-left: 10px;
+}
+.endpart .icons{
+    float:right;
+    display:flex;
+}
+.endpart .icons .icon1{
+    padding-top:5px ;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.endpart .icons .icon2{
+    padding-top:5px ;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.endpart .icons .icon3{
+    padding-top:5px ;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.endpart .icons .icon4{
+    padding-top: 5px ;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.end{
+    background-color:#f2f2f2;
+}
+.end p{
+    text-align:center;
+}
